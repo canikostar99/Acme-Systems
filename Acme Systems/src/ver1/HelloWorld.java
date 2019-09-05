@@ -7,6 +7,11 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
 	}
+	
+	public static void what(String input ) {
+		
+		System.out.println(input + ", what?");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
